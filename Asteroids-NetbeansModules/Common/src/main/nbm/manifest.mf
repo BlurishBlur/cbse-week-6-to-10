@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: dk/sdu/mmmi/cbse/common/Bundle.properties
+OpenIDE-Module-Public-Packages: dk.sdu.mmmi.cbse.common.data.*, dk.sdu
+ .mmmi.cbse.common.events.*, dk.sdu.mmmi.cbse.common.services.*
